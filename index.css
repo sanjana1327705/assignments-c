@@ -1,0 +1,20 @@
+
+
+  .box {
+    border: 5px dotted black;
+    background-color: lightgray;
+    padding: 1em;
+    margin: 20px 1em 40px 2em;
+    width: 300px;
+    height: 150px;
+  }
+
+  .boxs  span {
+    background-color: pink;
+    border: 5px solid black;
+    padding: 1em;
+  }
+     
+  
+  
+     
